@@ -78,6 +78,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>web-group2</finalName>
     </build>
 
 </project>
